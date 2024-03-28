@@ -2,10 +2,10 @@ dairy_blueCheese
 dairy_butter
 dairy_buttermilk
 dairy_cheddarCheese
-dairy_creamcheese
+dairy_creamCheese
 dairy_eggs
 dairy_eggSubstitute
-dairy_eggWhiteSubstitutue
+dairy_eggWhiteSubstitute
 dairy_mozzarella
 dairy_Parmesan
 dairy_ricottaCheese
@@ -28,6 +28,7 @@ grocery_beefBroth
 grocery_beefBrothConcentrate
 grocery_breadcrumbs
 grocery_brownSugarSweetner
+grocery_canArtichokeHearts
 grocery_canBlackBeans
 grocery_canBlackBeans
 grocery_canButterBeans
@@ -39,6 +40,7 @@ grocery_canEvaporatedMilk
 grocery_canGarbanzoBeans
 grocery_canolaOil
 grocery_canPinto
+grocery_canPureeTomato
 grocery_canSalmon
 grocery_canStewedTomatoes
 grocery_canTomatoJuice
@@ -59,6 +61,8 @@ grocery_clamJuice
 grocery_cocoaPowder
 grocery_coconutExtract
 grocery_coconutMilk
+grocery_coffee
+grocery_concentrateVegetableBroth
 grocery_cookingSpray
 grocery_coriander
 grocery_cornstarch
@@ -104,7 +108,6 @@ grocery_redWine
 grocery_redWineVinegar
 grocery_riceVinegar
 grocery_saffron
-grocery_saffron
 grocery_salsa
 grocery_salt
 grocery_sesameOil
@@ -114,12 +117,10 @@ grocery_soySauce
 grocery_steakSeasoning
 grocery_sunDriedTomatoes
 grocery_sweetner
-grocery_sweetner
 grocery_sweetPickleRelish
 grocery_tarragon
-grocery_tarragon
 grocery_thyme
-grocery_thyme
+grocery_tofuSilken
 grocery_tomatoPaste
 grocery_turmeric
 grocery_vanillaExtract
@@ -163,6 +164,7 @@ produce_iceberg
 produce_jalapeno
 produce_leeks
 produce_lemons
+produce_limes
 produce_mango
 produce_mint
 produce_mushrooms
@@ -179,6 +181,7 @@ produce_redOnion
 produce_rosemary
 produce_scallions
 produce_shallots
+produce_shitakeMushroom
 produce_snowPeas
 produce_softTofu
 produce_squash
