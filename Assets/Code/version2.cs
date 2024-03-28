@@ -31,12 +31,12 @@ public class version2 : MonoBehaviour
         var lines = text.Split('\n');
         for(var i = 0; i < lines.Length; i++)
         {
-            var line = lines[i];
+            var line = lines[i].Trim();
             var values = line.Split('_');
             if(values.Length == 2)
             {
-                var type = values[0];
-                var ingredient = values[1];
+                var type = values[0].Trim();
+                var ingredient = values[1].Trim();
 
                 if(_ingredients.ContainsKey(type))
                 {
@@ -58,17 +58,17 @@ public class version2 : MonoBehaviour
         lines = text.Split('\n');
         for (var i = 0; i < lines.Length; i++)
         {
-            var line = lines[i];
+            var line = lines[i].Trim();
             var values = line.Split('_');
             if (values.Length == 2)
             {
-                var receipe = values[0];
-                var ingredientsStr = values[1];
+                var receipe = values[0].Trim();
+                var ingredientsStr = values[1].Trim();
                 var ingredients = ingredientsStr.Split(',');
 
                 for (var j = 0; j < ingredients.Length; j++)
                 {
-                    var ingredient = ingredients[j];
+                    var ingredient = ingredients[j].Trim();
 
                     if (_receipes.ContainsKey(receipe))
                     {
@@ -114,9 +114,10 @@ public class version2 : MonoBehaviour
         var value = _searchBox.text;
         print("value: " + value);
 
-        foreach(var key in _ingredients.Keys)
+        foreach(var ingredient in _allIngredients)
         {
-            if(_ingredients[key].IndexOf(value) >= 0)
+            print(ingredient + " -- " + value + "======" + (ingredient.Equals(value)));
+            if (ingredient.Equals(value))
             {
                 _ingredientButton.gameObject.SetActive(true);
                 _ingredientButton.GetComponentInChildren<TextMeshProUGUI>().text = value;
@@ -134,10 +135,7 @@ public class version2 : MonoBehaviour
     {
         var go = Instantiate(_ingredientBtnPrefab, Vector3.zero, Quaternion.identity);
         go.GetComponentInChildren<TextMeshProUGUI>().text = _searchBox.text;
+        go.transform.SetParent(_pantryPanel.transform);
         go.GetComponent<RectTransform>().position = Vector3.zero;
-        go.transform.parent = _pantryPanel.transform;
     }
-
-
-
 }
