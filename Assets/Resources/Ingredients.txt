@@ -5,7 +5,7 @@ dairy_buttermilk
 dairy_cheddarCheese
 dairy_cheese
 dairy_cottageCheese
-dairy_creamcheese
+dairy_creamCheese
 dairy_eggs
 dairy_eggSubstitute
 dairy_eggWhites
@@ -15,7 +15,7 @@ dairy_heavyCream
 dairy_mexicanCheese
 dairy_mozzarella
 dairy_mozzarellaBalls
-dairy_Parmesan
+dairy_parmesan
 dairy_pepperJackCheese
 dairy_provolone
 dairy_ricottaCheese
@@ -23,15 +23,16 @@ dairy_skimMilk
 dairy_sourCream
 dairy_swissCheese
 dairy_yogurt
-frozen_cauliflowerRice
-frozen_edamame
-frozen_mixedBerries
-frozen_mixedVegetables
-frozen_pineapple
-frozen_raspberries
-frozen_spinach
-frozen_stirFryVeggies
-frozen_veggieBurger
+frozen_frozenCauliflowerRice
+frozen_frozenEdamame
+frozen_frozenHashbrowns
+frozen_frozenMixedBerries
+frozen_frozenMixedVegetables
+frozen_frozenPineapple
+frozen_frozenRaspberries
+frozen_frozenSpinach
+frozen_frozenStirFryVeggies
+frozen_frozenVeggieBurger
 grocery_allSpice
 grocery_almondFlour
 grocery_almonds
@@ -45,6 +46,7 @@ grocery_bakingSoda
 grocery_balsamicVinegar
 grocery_bananaPeppers
 grocery_bananaPuddingMix
+grocery_barbecueSauce
 grocery_basil
 grocery_bayLeaf
 grocery_beefBroth
@@ -131,6 +133,7 @@ grocery_instantChocolatePudding
 grocery_italianSeasoning
 grocery_jarPastaSauce
 grocery_jarRoastedGarlic
+grocery_kalamataOlives
 grocery_ketchup
 grocery_kidneyBeans
 grocery_lemonExtract
@@ -149,6 +152,7 @@ grocery_mintExtract
 grocery_nutmeg
 grocery_oats
 grocery_oliveOil
+grocery_oliveOilMayonnaise
 grocery_onionFlakes
 grocery_onionPowder
 grocery_orangeExtract
@@ -163,7 +167,9 @@ grocery_pepper
 grocery_peppercorns
 grocery_picoDeGallo
 grocery_pizzaSauce
+grocery_poppySeeds
 grocery_proteinPowder
+grocery_pumpkinPieSpice
 grocery_ranchSeasoning
 grocery_raspberryJam
 grocery_redChiliPaste
@@ -202,6 +208,7 @@ grocery_vermouth
 grocery_walnuts
 grocery_wasabiPaste
 grocery_water
+grocery_whiteVinegar
 grocery_whiteWine
 grocery_wholeCloves
 grocery_wholeGrainMustard
@@ -296,6 +303,7 @@ protein_deliTurkey
 protein_flatIronSteak
 protein_groundBeef
 protein_groundLamb
+protein_groundPork
 protein_groundTurkey
 protein_halibut
 protein_ham

@@ -2,12 +2,12 @@ Broccoli and Cheese Omlette EWBp17_broccoli,shallots,cookingSpray,eggSubstitute,
 omeletItaliano EWB p19_mushrooms,onions,tomatoesPlum,basil,cookingSpray,eggSubstitute,pepper,salt,water,turkeySausageSweet,mozzarella										
 omeletALaQuebec EWBp20_mushrooms,cookingSpray,eggSubstitute,pepper,salt,protein_deliTurkey,water,cheddarCheese													
 hamEggCheese EWBp21_cookingSpray,eggSubstitute,pepper,salt,water,protein_ham,cheddarCheese														
-veggieFritata EWBp23_bellPepper,mushrooms,onions,zucchini,cookingSpray,eggSubstitute,pepper,salt,water,Parmesan											
+veggieFritata EWBp23_bellPepper,mushrooms,onions,zucchini,cookingSpray,eggSubstitute,pepper,salt,water,parmesan									
 devilsEggSalad EWBp24_onions,eggs,hotSauce,mayonnaise,dijonMustard,paprika,pepper,salt													
 bengaliChickenAndVeggies EWBp26_broccoli,carrots,cauliflower,garlic,ginger,jalapeno,onions,parsley,chickenBroth,cinnamon,wholeCloves,coconutMilk,pepper,salt,thyme						
-chickenAndMushroomSoup EWBp27_greenOnions,mushrooms,shitakeMushroom,onions,bayLeaf,chickenBroth,wholeCloves,cookingSpray,pepper,salt,sourCream	tarragon,thyme,whiteWine,chicken,					
-chickenArtichokeSoup EWBp28_garlic,lemons,canArtichokeHearts,chickenBroth,chiliPowder,nutmeg,tarragon,softTofu,chicken,Parmesan,										
-blackBeanAndSausageSoup EWBp29_garlic,onions,canBlackBeans,chickenBroth,chiliPowder,cookingSpray,cumin,hotSauce,pepper,turkeyKielbasa,frozenspinach,sourCream									
+chickenAndMushroomSoup EWBp27_greenOnions,mushrooms,shitakeMushroom,onions,bayLeaf,chickenBroth,wholeCloves,cookingSpray,pepper,salt,sourCream,tarragon,thyme,whiteWine,chicken,					
+chickenArtichokeSoup EWBp28_garlic,lemons,canArtichokeHearts,chickenBroth,chiliPowder,nutmeg,tarragon,softTofu,chicken,parmesan									
+blackBeanAndSausageSoup EWBp29_garlic,onions,canBlackBeans,chickenBroth,chiliPowder,cookingSpray,cumin,hotSauce,pepper,turkeyKielbasa,frozenSpinach,sourCream									
 motherInLawSoup EWBp30_garlic,saffron,chickenBroth,cookingSpray,cumin,paprika,pepper,salt,prosciutto,eggs											
 Cold Shrimp Soup EWBp31_greenOnions,cucumbers,dryMustard,pepper,salt,sweetner,shrimp,buttermilk													
 creamyShrimpSoup EWBp32_cauliflower,garlic,onions,clamJuice,cookingSpray,lemonPepper,pepper,salt,protein_ham,protein_shrimp,canEvaporatedMilk										
@@ -17,29 +17,29 @@ musselPosillipa EWBp35_basil,garlic,oregano,clamJuice,cookingSpray,protein_musse
 Southwestern Tomato Soup EWBp36_garlic,onions,oregano,chickenBroth,chiliPowder,cookingSpray,cumin,pepper,salt,canDicedTomatoes,turkey										
 chilledTomatoSoupWithBasil EWBp37_basil,cumin,canWholeTomatoes,worcestershireSauce,yogurt																
 broccoliAndCheddarGratin EWBp40_broccoli,garlic,vegetableBroth,cookingSpray,redPepperFlakes,soyNuts,cheddarCheese														
-broccoliSouffle EWBp41_broccoli,garlic,onions,cookingSpray,eggSubstitute,eggWhiteSubstitutue,canEvaporatedMilk,hotSauce,pepper,salt,Parmesan										
+broccoliSouffle EWBp41_broccoli,garlic,onions,cookingSpray,eggSubstitute,eggWhiteSubstitutue,canEvaporatedMilk,hotSauce,pepper,salt,parmesan										
 garlickyBroccoliAndRicotta EWBp42_broccoli,garlic,ginger,cookingSpray,redPepperFlakes,ricottaCheese															
 garbanzoGuacamole EWBp43_avocado,garlic,greenChile,greenOnions,lemons,cumin,canGarbanzoBeans,pepper,salt,canDicedTomatoes											
 cauliflowerMushroomAndCheddarCasserole EWBp44_cauliflower,garlic,mushrooms,cookingSpray,soyNuts,cheddarCheese															
 mashedCauliflower EWBp45_cauliflower,cookingSpray,pepper,salt,skimMilk,sourCream															
-creamedSpinach EWBp46_shallots,cookingSpray,nutmeg,pepper,salt,frozenspinach,creamCheese,skimMilk													
-crustlessSpinachAndCheeseQuiche EWBp47_mushrooms,shallots,cookingSpray,eggSubstitute,water,frozenspinach,swissCheese,skimMilk													
+creamedSpinach EWBp46_shallots,cookingSpray,nutmeg,pepper,salt,frozenSpinach,creamCheese,skimMilk													
+crustlessSpinachAndCheeseQuiche EWBp47_mushrooms,shallots,cookingSpray,eggSubstitute,water,frozenSpinach,swissCheese,skimMilk													
 kaleWithAppleAndOnion EWBp48_grannySmithApples,onions,cookingSpray,curryPowder,water																
 marinatedStringBeans EWBp49,garlic,greenBeans,tomatoes,balsamicVinegar,basil,oliveOil,pepper,salt													
 mintedCucumbersWithYogurt EWBp50_cucumbers,garlic,lemons,mint,cumin,yogurt															
-PattyPanSquashPuree EWBp51_shallots,squash,horseradish,thyme,creamcheese,sourCream															
-zucchiniAndRicottaRustica EWBp52_basil,zucchini,cookingSpray,pepper,salt,Parmesan,ricottaCheese														
+PattyPanSquashPuree EWBp51_shallots,squash,horseradish,thyme,creamCheese,sourCream															
+zucchiniAndRicottaRustica EWBp52_basil,zucchini,cookingSpray,pepper,salt,parmesan,ricottaCheese														
 zucchiniFlanWithQuickTomatoSauce EWBp53_basil,garlic,onions,zucchini,cookingSpray,canDicedTomatoes,eggSubstitute,skimMilk													
-zucchiniCustards EWBp55_basil,oregano,shallots,zucchini,cayennePepper,cookingSpray,nutmeg,Parmesan,eggSubstitute,eggWhiteSubstitutue,skimMilk										
-zucchiniPancakes EWBp56_basil,greenOnions,zucchini,cookingSpray,pepper,salt,sweetner,Parmesan,eggWhiteSubstitutue,sourCream											
+zucchiniCustards EWBp55_basil,oregano,shallots,zucchini,cayennePepper,cookingSpray,nutmeg,parmesan,eggSubstitute,eggWhiteSubstitutue,skimMilk										
+zucchiniPancakes EWBp56_basil,greenOnions,zucchini,cookingSpray,pepper,salt,sweetner,parmesan,eggWhiteSubstitutue,sourCream											
 deviledChickenSpread EWBp58_sweetOnions,chiliPowder,lemonPepper,mayonnaise,dijonMustard,paprika,chicken														
 BBQBakedChicken EWBp59_appleCider,asianChiliPaste,cookingSpray,sweetner,thyme,tomatoPaste,appleCiderVinegar,protein_chicken													
 chickenAndFreshApricotTagine EWBp60_cookingSpray,pepper,salt,chicken,onions,garlic,cinnamon,groundGinger,chickenBroth,sweetner,apricots,coriander,saffron								
 walnutCrustedChickenBitsWithDeviledRaspAppleSauce EWBp61_allSpice,applesauce,cookingSpray,garlicPowder,lemonPepper,dijonMustard,raspberryJam,walnuts,chicken,eggWhiteSubstitut											
-chickenAndSpinachAdobo EWBp63_garlic,bayLeaf,cookingSpray,redPepperFlakes,soySauce,appleCiderVinegar,chicken,frozenspinach													
-spanishChickenandRice EWBp64_bellPepper,garlic,onions,chickenBroth,cookingSpray,cumin,lemonPepper,paprika,canDicedTomatoes,tomatoPaste,frozencauliflowerRice,chicken									
+chickenAndSpinachAdobo EWBp63_garlic,bayLeaf,cookingSpray,redPepperFlakes,soySauce,appleCiderVinegar,chicken,frozenSpinach													
+spanishChickenandRice EWBp64_bellPepper,garlic,onions,chickenBroth,cookingSpray,cumin,lemonPepper,paprika,canDicedTomatoes,tomatoPaste,frozenCauliflowerRice,chicken									
 turkeyCacciatore EWBp75_basil,garlic,onions,cookingSpray,oregano,pepper,redPepperFlakes,redWine,salt,canDicedTomatoes,tomatoPaste,turkey									
-turkeyCutletsFrancese EWBp74_chickenBrothConcentrate,cookingSpray,parsley,whiteWine,protein_turkey,Parmesan,eggSubstitute,skimMilk													
+turkeyCutletsFrancese EWBp74_chickenBrothConcentrate,cookingSpray,parsley,whiteWine,protein_turkey,parmesan,eggSubstitute,skimMilk													
 spicyGrilledMarinatedChickenBreasts EWBp73_lemons,limes,oranges,tarragon,cayennePepper,chiliPowder,cookingSpray,paprika,pepper,chicken,sourCream										
 middleEasternChicken EWBp72_garlic,lemons,cinnamon,cumin,oliveOil,paprika,pepper,redPepperFlakes,salt,turmeric											
 grilledVeggiesQuickMarinatedProtein EWBp70_bellPepper,ginger,onions,oranges,tomatoes,zucchini,chiliPowder,cookingSpray,garlicPowder,lemonPepper,sesameOil,soySauce,chicken								
@@ -51,16 +51,16 @@ chickenBeauSejour EWBp65_garlic,mushrooms,thyme,bayLeaf,chickenBroth,cookingSpra
 turkeyPaprikash EWBp76_garlic,mushrooms,onions,cayennePepper,chickenBroth,cookingSpray,paprika,pepper,salt,tomatoPaste,chicken,sourCream									
 turkeyCurry EWBp77_garlic,ginger,onions,canolaOil,cinnamon,coconutMilk,cumin,curryPowder,paprika,goldenRaisins,canCrushedTomatoes,turkey,yogurt								
 sweetAndSourStuffedCabbage EWBp78_cabbage,ginger,onions,oranges,cayennePepper,cookingSpray,pepper,redWineVinegar,sweetner,canTomatoSauce,tomatoPaste,ricottaCheese,swissCheese,eggSubstitute							
-asianTurkeyFilledCabbageDumpling EWBp80_cabbage,garlic,ginger,jalapeno,redPepperFlakes,sesameOil,soySauce,sweetner,water,turkeyGround											
+asianTurkeyFilledCabbageDumpling EWBp80_cabbage,garlic,ginger,jalapeno,redPepperFlakes,sesameOil,soySauce,sweetner,water,groundTurkey
 szechuanTurkeyAndEggplant EWBp82_cabbage,eggplant,garlic,ginger,jalapeno,onions,scallions,cookingSpray,redPepperFlakes,riceVinegar,sesameOil,soySauce,sweetner,water,groundTurkey,eggWhiteSubstitutue					
 teriyakiTurkeyBurgers EWBp83_garlic,ginger,onions,scallions,cookingSpray,pepper,riceVinegar,sesameOil,drySherry,soySauce,sweetner,groundTurkey									
-koreanBBQMeatballsAndSauce EWBp84_garlic,ginger,scallions,applesauce,breadcrumbs,cookingSpray,redPepperFlakes,riceVinegar,sesameOil,soySauce,sweetner,groundTurkey	eggSubstitute								
+koreanBBQMeatballsAndSauce EWBp84_garlic,ginger,scallions,applesauce,breadcrumbs,cookingSpray,redPepperFlakes,riceVinegar,sesameOil,soySauce,sweetner,groundTurkey,eggSubstitute								
 turkeyLoafWithHorseradishSauce EWBp86_driedCelery,chickenBrothConcentrate,cookingSpray,horseradish,driedOnion,parsley,pepper,canTomatoJuice,groundTurkey,eggSubstitute,sourCream										
 sausageAndMushroomsWithRabe EWBp87_broccoliRabe,garlic,mushrooms,chickenBroth,cookingSpray,pepper,redPepperFlakes,salt,turkeySausageSweet												
 sausageAndPeppersLight EWBp88_bellPepper,garlic,onions,basil,cookingSpray,fennelSeeds,marjoram,oregano,pepper,redPepperFlakes,canCrushedTomatoes,tomatoPaste,groundTurkey								
 quickNoBeanTurkeyChili EWBp90_bellPepper,jalapeno,onions,chiliPowder,cinnamon,cocoaPowder,cookingSpray,cumin,pepper,salt,sweetner,canWholeTomatoes,appleCiderVinegar,groundTurkey,cheddarCheese						
-noNoodleZucchiniLasagna EWBp91_garlic,mushrooms,onions,parsley,zucchini,cookingSpray,nutmeg,oregano,salt,frozenspinach,groundTurkey,mozzarella,Parmesan,ricottaCheese,skimMilk						
-unpastaLasagnaWithTomatoSauce EWBp93_basil,garlic,onions,zucchini,cookingSpray,pepper,redWine,salt,sweetner,canDicedTomatoes,tomatoPaste,turkeySausageSweet,dairy_mozzarella,Parmesan,ricottaCheese						
+noNoodleZucchiniLasagna EWBp91_garlic,mushrooms,onions,parsley,zucchini,cookingSpray,nutmeg,oregano,salt,frozenSpinach,groundTurkey,mozzarella,parmesan,ricottaCheese,skimMilk						
+unpastaLasagnaWithTomatoSauce EWBp93_basil,garlic,onions,zucchini,cookingSpray,pepper,redWine,salt,sweetner,canDicedTomatoes,tomatoPaste,turkeySausageSweet,dairy_mozzarella,parmesan,ricottaCheese						
 sausageAndRicottaGiardinera EWBp95_basil,bellPepper,garlic,mushrooms,onions,zucchini,cookingSpray,pepper,redPepperFlakes,redWine,salt,canDicedTomatoes,turkeySausageSweet,mozzarella,ricottaCheese						
 braisedPorkTenderloin EWBp97_garlic,leeks,cookingSpray,horseradish,dijonMustard,pepper,salt,sweetner,thyme,whiteWine,porkTenderloin										
 braisedPorkWithApplesAndOnions EWBp98_grannySmithApples,garlic,ginger,onions,cinnamon,cookingSpray,nutmeg,sweetner,water,porkTenderloin											
@@ -86,14 +86,14 @@ momsMeatloaf EWBp119_onions,breadcrumbs,beefBrothConcentrate,cookingSpray,garlic
 asianStirFry EWBp120_bellPepper,bokChoy,garlic,ginger,mushrooms,sweetOnions,scallions,snowPeas,zucchini,canolaOil,riceVinegar,sesameOil,drySherry,soySauce,sweetner,leanRoundBeef					
 tuscanVealStew EWBp122_jalapeno,mushrooms,rosemary,chickenBroth,cookingSpray,pepper,salt,sunDriedTomatoes,whiteWine,veal,yogurt										
 greekLambBurgursWithYogutMintSauce EWBp123_garlic,lemons,mint,scallions,chickenBrothConcentrate,cookingSpray,coriander,cumin,pepper,salt,groundLamb,yogurt									
-Moussaka EWBp125_eggplant,garlic,mushrooms,onions,oregano,cinnamon,cookingSpray,parsley,pepper,redWine,salt,canTomatoSauce,groundLamb,groundTurkey,Parmesan,eggSubstitute,skimMilk				
+Moussaka EWBp125_eggplant,garlic,mushrooms,onions,oregano,cinnamon,cookingSpray,parsley,pepper,redWine,salt,canTomatoSauce,groundLamb,groundTurkey,parmesan,eggSubstitute,skimMilk				
 peppercornAndMustardCrustedLambChops EWBp127_lemons,mint,beefBroth,cookingSpray,jarRoastedGarlic,wholeGrainMustard,peppercorns,lambChops,sourCream												
 spicedLambChops EWBp128_garlic,limes,cardamom,chickenBroth,cookingSpray,cumin,pepper,salt,water,lambChops,yogurt										
 turkishLambAndCherryTomatoes EWBp129_garlic,grapeTomatoes,allSpice,cayennePepper,chickenBroth,cinnamon,cookingSpray,cumin,paprika,thyme,tomatoPaste,lambChops,yogurt								
 grilledSalmonWithBasilSeafoodSauceEWBp130_basil,ginger,onions,anchovyPaste,cookingSpray,horseradish,mayonnaise,soySauce,protein_salmon,sourCream											
 indianSpicedSalmon EWBp130_cinnamon,wholeCloves,cookingSpray,coriander,cumin,fennelSeeds,pepper,thyme,turmeric,salmon,yogurt										
 salmonWithWasabiGlazeAndCreamyWasabiSauce EWBp132_garlic,lemons,cookingSpray,mayonnaise,soySauce,sweetner,wasabiPaste,sourCream													
-salmonWithCreamyLimeDillSauce EWBp134_limes,cookingSpray,garlicPowder,dijonMustard,sweetner,protein_salmon,creamcheese														
+salmonWithCreamyLimeDillSauce EWBp134_limes,cookingSpray,garlicPowder,dijonMustard,sweetner,protein_salmon,creamCheese														
 salmonCroquettesWithSpicyTartarSauce EWBp135_celery,lemons,onions,breadcrumbs,cookingSpray,horseradish,lemonPepper,mayonnaise,parsley,sweetPickleRelish,canSalmon,worcestershireSauce,eggSubstitute								
 mustardCrustedHalibut EWBp136_garlic,lemons,parsley,thyme,clamJuice,cookingSpray,dijonMustard,wholeGrainMustard,pepper,salt,soyNuts,soySauce,halibut								
 halibutWithPiquantTomatoSauce EWBp137_basil,garlic,mushrooms,tomatoesPlum,clamJuice,cookingSpray,pepper,redCurryPaste,salt,halibut											
@@ -102,8 +102,8 @@ tangySwordfishAndTomatoes EWBp139_tarragon,grapeTomatoes,cookingSpray,dijonMusta
 soleWithWhiteWineAndCapers EWB p140_shallots,capers,cookingSpray,pepper,salt,whiteWine,sole														
 bluefishWithMustardHorseradishGlaze EWBp141_parsley,shallots,cookingSpray,horseradish,mayonnaise,dijonMustard,worcestershireSauce,bluefish													
 cajunSpicedCatfishWithCitrusHorseradishSauce EWBp142_basil,garlic,lemons,limes,capers,cayennePepper,cookingSpray,horseradish,mayonnaise,oregano,paprika,thyme,catfish,sourCream							
-searedTunaOverSesameSpinach EWBp144_limes,cayennePepper,salt,sesameOil,sesameSeeds,soySauce,frozenspinach,tuna													
-tunaMousse EWBp145_lemons,parsley,shallots,driedCelery,mayonnaise,pepper,canTuna,creamcheese,sourCream												
+searedTunaOverSesameSpinach EWBp144_limes,cayennePepper,salt,sesameOil,sesameSeeds,soySauce,frozenSpinach,tuna													
+tunaMousse EWBp145_lemons,parsley,shallots,driedCelery,mayonnaise,pepper,canTuna,creamCheese,sourCream												
 quickFishMockTacosWithJalapenoLimeCreme EWBp146_avocado,cilantro,garlic,iceberg,jalapeno,limes,scallions,cayennePepper,cookingSpray,coriander,cumin,mayonnaise,paprika,salsa,salt,whiteFish,sourCream				
 balineseShrimp EWBp148_garlic,greenOnions,cookingSpray,coriander,cumin,sweetner,turmeric,water,shrimp,yogurt											
 chilledShrimpWithPonzuSauce EWBp149_basil,ginger,limes,oranges,asianChiliPaste,soySauce,sweetner,shrimp													
@@ -127,8 +127,8 @@ orangeGingerTofu EWBp169_garlic,ginger,leeks,oranges,chickenBroth,cookingSpray,s
 tofuAndVegetableCurry EWBp170_bellPepper,cabbage,cilantro,garlic,ginger,scallions,vegetableBroth,coconutMilk,cookingSpray,curryPaste,soySauce,sweetner,tofuFirm								
 tofuMexicano.EWBp171_bellPepper,garlic,jalapeno,onions,grapeTomatoes,chiliPowder,cookingSpray,cumin,pepper,salt,tofuFirm,cheddarCheese									
 tofuTikka.EWBp172_chiliPepper,garlic,ginger,limes,vegetableBroth,cookingSpray,coriander,cumin,garamMasala,tofuFirm,turmeric,yogurt									
-basicCheesecake EWBp174_cookingSpray,creamOfTartar,sweetner,tofuSilken,vanillaExtract,creamcheese,eggSubstitute,eggWhiteSubstitutue													
-mintedCheesecakeWithStrawberrySauce.EWB p175_mint,strawberries,balsamicVinegar,sweetner,vanillaExtract,water,ricottaCheese,creamcheese													
+basicCheesecake EWBp174_cookingSpray,creamOfTartar,sweetner,tofuSilken,vanillaExtract,creamCheese,eggSubstitute,eggWhiteSubstitutue													
+mintedCheesecakeWithStrawberrySauce.EWB p175_mint,strawberries,balsamicVinegar,sweetner,vanillaExtract,water,ricottaCheese,creamCheese													
 strawberryRicottaWhip EWBp176_oranges,strawberries,creamOfTartar,sweetner,vanillaExtract,ricottaCheese,eggSubstitute,yogurt													
 flan EWBp177_canEvaporatedMilk,vanillaExtract,sweetner,eggs																	
 lemonSouffle EWBp178_lemons,canEvaporatedMilk,sweetner,eggs																	
@@ -137,10 +137,10 @@ mintedSummerSmoothie EWB180_cucumbers,honeydew,mint,iceCubes,sweetner,yogurt
 pinaColadaSmoothie EWBp181_mango,frozenPineapple,coconutExtract,iceCubes,sweetner,yogurt															
 hotChocolate EWBp182_cocoaPowder,sweetner,skimMilk																		
 asianDippingSauce EWBp184_redPepperFlakes,riceVinegar,sesameOil,soySauce,sweetner																
-caesarSauce EWB185_garlic,anchovyPaste,balsamicVinegar,dijonMustard,worcestershireSauce,Parmesan,yogurt														
+caesarSauce EWB185_garlic,anchovyPaste,balsamicVinegar,dijonMustard,worcestershireSauce,parmesan,yogurt														
 spicyCreamyCitrusSauce EWB 187_sourCream,soySauce,limes,oranges,sweetner,asianChiliPaste,ginger,basil													
 citrusHorseradishSauce EWB188_sourCream,mayonnaise,lemons,limes,capers,horseradish,basil														
-creamyBasilSeafoodSauce EWB189_sourCream	anchovyPaste,horseradish,mayonnaise,mincedOnions,soySauce,basil,ginger													
+creamyBasilSeafoodSauce EWB189_sourCream,anchovyPaste,horseradish,mayonnaise,mincedOnions,soySauce,basil,ginger													
 shallotHorseradishSauce EWB190_yogurt,canolaOil,chickenBrothConcentrate,horseradish,paprika,whiteWine,garlic,shallots,												
 simpleHorseradishSauce EWB191_sourCream,chickenBrothConcentrate,horseradish,paprika																	
 creamyWasabiSauce EWB192_sourCream,mayonnaise,soySauce,sweetner,wasabiPaste																
@@ -148,7 +148,7 @@ quickTomatoSauceEWB193_canDicedTomatoes,cookingSpray,sweetner,basil,garlic
 saucePiperade EWB194_cookingSpray,pepper,salt,bellPepper,garlic,mushrooms,onions,tomatoesPlum													
 sauceBasquaise EWB195_beefBrothConcentrate,oliveOil,pepper,redWine,salt,bellPepper,garlic,mushrooms,onions,tomatoesPlum											
 sauceYogurtMintSauce EWB196_yogurt,chickenBrothConcentrate,cumin,garlic,lemons,mint															
-sauceTikkaYogurtSauce EWB197_yogurt	chickenBroth,cookingSpray,coriander,cumin,garamMasala,pepper,salt,turmeric,garlic,limes,redChili									
+sauceTikkaYogurtSauce EWB197_yogurt,chickenBroth,cookingSpray,coriander,cumin,garamMasala,pepper,salt,turmeric,garlic,limes,redChili									
 sauceSweetandSour EWB198_cookingSpray,redWineVinegar,sweetner,tomatoPaste,ginger,onions,oranges														
 saucePlum EWB199_balsamicVinegar,cookingSpray,soySauce,sweetner,tomatoPaste,garlic,jalapeno,onions,plums												
 mangoSalsa EWB200_balsamicVinegar,chickenBroth,chiliPowder,sweetner,mango,redOnion															
@@ -162,11 +162,11 @@ highProteinMilk CBC80_skimMilk,canDryMilkPowder
 coolAsCucumber CBC81_water,cucumbers,lemons,limes,mint																
 vanillaBeanProteinShake CBC82_skimMilk,yogurt,vanillaExtract,iceCubes,vanillaProteinPowder																
 bananaCreamProteinShake CBC83_skimMilk,yogurt,vanillaExtract,bananaPuddingMix,vanillaExtract,bananaPuddingMix															
-pinaColadaProteinShake CBC84_cottageCheese,frozenpineapple,coconutExtract,coconutMilk,iceCubes,sweetner,vanillaProteinPowder														
+pinaColadaProteinShake CBC84_cottageCheese,frozenPineapple,coconutExtract,coconutMilk,iceCubes,sweetner,vanillaProteinPowder														
 lemonPieProteinShake CBC85_skimMilk,yogurt,iceCubes,lemonExtract,vanillaExtract,vanillaProteinPowder,banana,lemons													
 cafeMochaProteinBlend CBC86_skimMilk,vanillaProteinPowder,cocoaPowder,vanillaExtract,iceCubes,coffee															
 greenMachineProteinShake CBC87_unflavoredProteinPowder,water,avocado,banana,grannySmithApples,lemons,parsley,spinach													
-chocolateRaspberryTruffle CBC88_skimMilk,frozenraspberries,chocolateProteinPowder,cocoaPowder,vanillaExtract																
+chocolateRaspberryTruffle CBC88_skimMilk,frozenRaspberries,chocolateProteinPowder,cocoaPowder,vanillaExtract																
 peanutButterAndChocolateProteinShake CBC89_skimMilk,yogurt,chocolateProteinPowder,cocoaPowder,iceCubes,peanutButterPowder															
 berryBlissProteinShake CBC90_skimMilk,yogurt,frozenMixedBerries,vanillaExtract,vanillaProteinPowder,lemons,spinach														
 proteinHotCocoa CBC91_skimMilk,hotChocolateMix,unflavoredProteinPowder																		
@@ -177,36 +177,36 @@ sweetMapleProteinOatmeal CBC96_skimMilk,brownSugarSweetner,mapleExtract,oats,sal
 homeStyleRefriedBeans CBC97_canPinto,chickenBroth,chiliPowder,cumin,oliveOil,garlic,onions														
 lemonDijonTunaSalad CBC98_canTuna,dijonMustard,dillPickles,mayonnaise,pepper,salt,lemons														
 curriedChickenSalad CBC99_yogurt,curryPowder,pepper,salt,turmeric,cilantro,rotisserieChicken														
-garlicParmesanCauliflowerMash CBC100_creamcheese,Parmesan,oliveOil,cauliflower,garlic,salt															
+garlicParmesanCauliflowerMash CBC100_creamCheese,parmesan,oliveOil,cauliflower,garlic,salt															
 chickenZoodleSoup CBC101_bayLeaf,chickenBroth,oliveOil,oregano,pepper,salt,basil,carrots,celery,garlic,onions,zucchini									
 splitPeaSoup CBC103_oliveOil,carrots,onions,garlic,chickenBroth,water,salt,pepper,bayLeaf,splitPeas											
 classicTurkeyChili CBC104_canDicedTomatoes,canPureeTomato,chiliPowder,cumin,kidneyBeans,oliveOil,oregano,tomatoPaste,bellPepper,garlic,onions,groundTurkey									
-italianRicottaBake CBC106_eggs,mozzarella,Parmesan,ricottaCheese,cookingSpray,italianSeasoning,marinaraSauce														
+italianRicottaBake CBC106_eggs,mozzarella,parmesan,ricottaCheese,cookingSpray,italianSeasoning,marinaraSauce														
 chocolateOrangePudding CBC107_skimMilk,cocoaPowder,instantChocolatePudding,proteinPowder,orangeExtract																
 blueberryAlmondOvernightOats CBC110_yogurt,almonds,cinnamon,flaxseed,oats,salt,sweetner,vanillaExtract,blueberries												
 proteinPancakes CBC112_cottageCheese,eggs,yogurt,bakingPowder,cookingSpray,flour															
-shakeshukaEggBake CBC113_canDicedTomatoes,cumin,oliveOil,paprika,garlic,onions,fetaCheese														
+shakeshukaEggBake CBC113_canDicedTomatoes,cumin,oliveOil,paprika,garlic,onions,feta
 denverEggMuffins CBC115_cheddarCheese,eggs,skimMilk,cookingSpray,oliveOil,bellPepper,onions,deliHam													
-cheesySlowCookerEggCasserole CBC117_cheddarCheese,eggs,skimMilk,hashbrowns,canGreenChiles,cookingSpray,pepper,salt,bellPepper,onions,chickenSausage										
+cheesySlowCookerEggCasserole CBC117_cheddarCheese,eggs,skimMilk,frozenHashbrowns,canGreenChiles,cookingSpray,pepper,salt,bellPepper,onions,chickenSausage										
 makeAheadBreakfastBurritos CBC119_cheddarCheese,eggs,skimMilk,canBlackBeans,oliveOil,salsa,wholeWheatTortilla,bellPepper,onions												
 breakfastPizza CBC120_eggWhites,cookingSpray,italianSeasoning,garlicPowder,mozzarella,basil,pizzaSauce														
 farmersMarketScramble CBC121_eggs,skimMilk,cheddarCheese,oliveOil,turkeySausageSweet,mushrooms,spinach,tomatoes													
 raspberryLemonGlutenFreeMuffins CBC123_eggs,yogurt,almondFlour,bakingPowder,bakingSoda,honey,salt,vanillaExtract,lemons,raspberries											
-pumpkinSpiceMuffins CBC124_butter,eggs,bakingSoda,erythritol	flour,mapleSyrup,pumpkin PieSpice,salt,vanillaExtract												
+pumpkinSpiceMuffins CBC124_butter,eggs,bakingSoda,erythritol,flour,mapleSyrup,pumpkinPieSpice,salt,vanillaExtract												
 capreseSaladBites CBC128_mozzarellaBalls,balsamicVinegar,italianSeasoning,oliveOil,basil,cherryTomatoes,garlic														
-greekChopChopSalad cbc130_fetaCheese,balsamicVinegar,bellPepper,cherryTomatoes,cucumbers,kalamataOlives,onions														
-cauliflowerFriedRice cbc131_eggs,frozenCauliflowerRice,,frozenMixedVegetables,sesameOil,soySauce,garlic,scallions														
+greekChopChopSalad cbc130_feta,balsamicVinegar,bellPepper,cherryTomatoes,cucumbers,kalamataOlives,onions														
+cauliflowerFriedRice cbc131_eggs,frozenCauliflowerRice,frozenMixedVegetables,sesameOil,soySauce,garlic,scallions														
 roastedGardenVegetables cbc132_oliveOil,pepper,salt,bellPepper,grapeTomatoes,onions,zucchini														
 asianPeanutCabbageSlaw cbc133_fishSauce,peanutButterPowder,peanuts,riceVinegar,sesameOil,soySauce,sriracha,water,bellPepper,cabbage,carrots,cilantro,ginger,scallions							
 spicyPeanutDressing CBC236,fishSauce,peanutButterPowder,riceVinegar,sesameOil,soySauce,sriracha,water,ginger													
 southwestDeviledEggs cbc134_eggs,yogurt,chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,pepper,salt,spicyMustard										
 tacoSeasoning cbc237,chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,pepper,salt													
 rajunCajunRollups cbc135_pepperJackCheese,bananaPeppers,spicyMustard,avocado,lettuce,redOnion,tomatoes,cajunDeliTurkey													
-everythingParmesanChips cbc136_Parmesan,garlicFlakes,onionFlakes,poppySeeds,sesameSeeds																
+everythingParmesanChips cbc136_parmesan,garlicFlakes,onionFlakes,poppySeeds,sesameSeeds																
 edamameHummus cbc137_frozenEdamame,cumin,oliveOil,pepper,salt,tahini,water,garlic,lemons,veggies											
 spicyRoastedChickpeas cbc138_cayennePepper,chiliPowder,cumin,garbanzoBeans,garlicPowder,oliveOil,paprika,salt													
 spaghettiSquashChowMein cbc142_cookingSpray,oliveOil,oysterSauce,soySauce,cabbage,celery,garlic,ginger,onions,spaghettiSquash											
-zucchiniLasagnaRollUps cbc144_eggs,mozzarella,Parmesan,ricottaCheese,cookingSpray,italianSeasoning,marinaraSauce,salt,garlic,spinach,zucchini										
+zucchiniLasagnaRollUps cbc144_eggs,mozzarella,parmesan,ricottaCheese,cookingSpray,italianSeasoning,marinaraSauce,salt,garlic,spinach,zucchini										
 tofuStirFry cbc146_frozenStirFryVeggies,cookingSpray,riceVinegar,sesameOil,soySauce,sriracha,sweetner,water,garlic,ginger,tofuFirm										
 stirFrySauce cbc233_riceVinegar,soySauce,sriracha,sweetner,water,garlic,ginger														
 buffaloSeitanBites cbc148_cookingSpray,eggs,yogurt,flaxseed,franks,garlicPowder,onionPowder,ranchSeasoning,seitan												
@@ -214,27 +214,27 @@ tempehBLTAlettucewrap cbc150_appleCiderVinegar,cumin,liquidSmoke,mayonnaise,soyS
 zucchiniEnchiladaBoatsWithMeatlessCrumbs CBC153_chiliPowder,cumin,cheddarCheese,yogurt,garlicPowder,chives,redEnchiladaSauce,water,onionPowder,oregano,paprika,pepper,avocado,cilantro,meatlessCrumbles,tomatoes,zucchini,salt			
 lentilSloppyJoes CBC154_canTomatoSauce,chiliPowder,cumin,lentils,oliveOil,paprika,sweetner,vegetableBroth,worcestershireSauce,bellPepper,garlic,lettuce,onions								
 blackBeanNoodlesWithCreamyChipotleRoastedPepperSauce CBC156_yogurt,blackBeanNoodles,canChipotlePeppersInAdobo,honey,oliveOil,pepper,salt,whiteVinegar,avocado,bellPepper,cilantro,garlic,grapeTomatoes,limes,poblanoPeppers						
-lettuceWrappedVeggieBurger CBC158_cheddarCheese,veggieBurger,dillPickleRelish,hotSauce,ketchup,oliveOilMayonnaise,pepper,salt,worcestershireSauce,lettuce,redOnion,tomatoes									
+lettuceWrappedVeggieBurger CBC158_cheddarCheese,frozenVeggieBurger,dillPickleRelish,hotSauce,ketchup,oliveOilMayonnaise,pepper,salt,worcestershireSauce,lettuce,redOnion,tomatoes									
 secretBurgerSauce CBC232_dillPickleRelish,hotSauce,ketchup,oliveOilMayonnaise,pepper,salt,worcestershireSauce														
-jambalayaWithVegetarianSausage CBC159_frozenCauliflowerRice,,cajunSeasoning,canDicedTomatoes,oliveOil,bellPepper,celery,onions,veggieSausage,shrimp												
-tomatoBasilCodEnPapillot CBC162_oliveOil,pepper,salt,whiteWine,basil,cherryTomatoes,garlic,lemons,shallots,cod,chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,frozenCauliflowerRice,,canBlackBeans,oliveOil,avocado,bellPepper,
-fishTacoSalad CBC164_Parmesan,sourCream,yogurt,dill,garlicPowder,pepper,salt,lemons,scallions,halibut											
+jambalayaWithVegetarianSausage CBC159_frozenCauliflowerRice,cajunSeasoning,canDicedTomatoes,oliveOil,bellPepper,celery,onions,veggieSausage,shrimp												
+tomatoBasilCodEnPapillot CBC162_oliveOil,pepper,salt,whiteWine,basil,cherryTomatoes,garlic,lemons,shallots,cod,chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,frozenCauliflowerRice,canBlackBeans,avocado,bellPepper,
+fishTacoSalad CBC164_parmesan,sourCream,yogurt,dill,garlicPowder,pepper,salt,lemons,scallions,halibut											
 mahiMahiWithAvocadoSalsa CBC168_chiliPowder,cumin,oliveOil,onionPowder,salt,avocado,cherryTomatoes,cilantro,jalapeno,mango,redOnion,mahiMahi									
 blackenedSalmonWithAvocadoCream CBC170_butter,yogurt,blackenedSeasoning,oliveOil,salt,avocado,garlic,jalapeno,limes,salmon											
 avocadoCream CBC234,yogurt,oliveOil,salt,avocado,garlic,jalapeno,limes														
 soyGingerSalmonWithBokChoy CBC172,brownSugarSweetner,oliveOil,pepper,riceVinegar,salt,soySauce,bokChoy,garlic,ginger,scallions,salmon										
 shrimpCeviche CBC174,salt,avocado,cilantro,jalapeno,lemons,limes,redOnion,tomatoes,shrimp												
-shrimpScampiWithZucchiniNoodles CBC175,butter,Parmesan,mincedGarlic,oliveOil,pepper,redPepperFlakes,salt,whiteWine,lemons,parsley,zucchini,shrimp									
+shrimpScampiWithZucchiniNoodles CBC175,butter,parmesan,mincedGarlic,oliveOil,pepper,redPepperFlakes,salt,whiteWine,lemons,parsley,zucchini,shrimp									
 westCoastCrabCakes CBC176,eggs,yogurt,breadcrumbs,canLumpCrab,cayennePepper,cookingSpray,dijonMustard,hotSauce,garlic,lemons											
 panSearedScallopsWithGarlicCreamSauce CBC178,butter,heavyCream,pepper,salt,vegetableBroth,garlic,lemons,scallops													
 momsTurkeyMeatloaf CBC182_eggs,cookingSpray,italianSeasoning,ketchup,pepper,salt,worcestershireSauce,garlic,onions,groundTurkey											
 chickenLettuceWraps CBC184_canWaterChestnuts,coconutOil,hoisinSauce,riceVinegar,soySauce,sriracha,garlic,ginger,lettuce,chicken											
 slowCookerSalsaChicken CBC185_chicken,salsa																			
 sheetPanFajitas CBC186_chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,pepper,oliveOil,bellPepper,onions,chicken										
-spinachDipStuffedChicken CBC187_creamcheese,mozzarella,Parmesan,frozenspinach,cookingSpray,oliveOil,pepper,salt,garlic,chicken											
+spinachDipStuffedChicken CBC187_creamCheese,mozzarella,parmesan,frozenSpinach,cookingSpray,oliveOil,pepper,salt,garlic,chicken											
 barbecueChickenAndPortobelloPizzas CBC189_oliveOil,garlic,portobelloMushroom,redOnion,barbecueSauce,chicken,mozzarella,cilantro,feta												
 onePanChickenPiccata CBC191_butter,capers,chickenBroth,flour,oliveOil,pepper,salt,lemons,parsley,chicken											
-oveBakedChickenTenders CBC193_eggs,Parmesan,breadcrumbs,cayennePepper,cookingSpray,garlicPowder,pepper,salt,chicken												
+oveBakedChickenTenders CBC193_eggs,parmesan,breadcrumbs,cayennePepper,cookingSpray,garlicPowder,pepper,salt,chicken												
 thaiRedCurryChicken CBC195_frozenCauliflowerRice,,coconutMilk,fishSauce,oliveOil,redCurryPaste,sweetner,basil,bellPepper,garlic,ginger,onions,chicken									
 grilledTangyBalsamicChickenThighs CBC197_balsamicVinegar,brownSugarSweetner,chiliPowder,oliveOil,pepper,salt,garlic,limes,chicken												
 eggRollBowl CBC200_riceVinegar,sesameOil,soySauce,coleslawMix,garlic,ginger,scallions,groundPork													
@@ -243,7 +243,7 @@ hawaiianPorkKebobsWithPineapple CBC202_oliveOil,pepper,salt,soySauce,bellPepper,
 honeyMustardPorkTenderloin CBC204_honey,oliveOil,pepper,salt,soySauce,sriracha,wholeGrainMustard,garlic,greenBeans,porkTenderloin											
 phillyCheesesteakStuffedBellPeppers CBC206_provolone,chiliPowder,coconutOil,oregano,paprika,bellPepper,creminiMushrooms,garlic,onions,deliRoastBeef											
 zoodlesWithMeatSauce CBC208_parmesan,italianSeasoning,jarPastaSauce,oliveOil,tomatoPaste,garlic,onions,zucchini,groundBeef												
-gyroStyleMeatballs CBC210,eggs,cumin,italianSeasoning,pepper,salt,garlic,parsley,groundBeef													
-bellPepperNachos CBC211,chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,pepper,salt,mexicanCheese,cookingSpray,salsa,bellPepper,groundBeef								
-beefStew CBC212,bayLeaf,beefBroth,oliveOil,pepper,salt,thyme,carrots,celery,garlic,onions,chuckRoast										
-beefAndBroccoliStirFry CBC214,frozenCauliflowerRice,beefBroth,coconutOil,cornstarch,oysterSauce,soySauce,broccoli,garlic,ginger,flatIronSteak											
+gyroStyleMeatballs CBC210_eggs,cumin,italianSeasoning,pepper,salt,garlic,parsley,groundBeef													
+bellPepperNachos CBC211_chiliPowder,cumin,garlicPowder,onionPowder,oregano,paprika,pepper,salt,mexicanCheese,cookingSpray,salsa,bellPepper,groundBeef								
+beefStew CBC212_bayLeaf,beefBroth,oliveOil,pepper,salt,thyme,carrots,celery,garlic,onions,chuckRoast										
+beefAndBroccoliStirFry CBC214_frozenCauliflowerRice,beefBroth,coconutOil,cornstarch,oysterSauce,soySauce,broccoli,garlic,ginger,flatIronSteak											
