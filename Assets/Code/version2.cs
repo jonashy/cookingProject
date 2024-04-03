@@ -157,6 +157,12 @@ public class version2 : MonoBehaviour
         go.GetComponentInChildren<TextMeshProUGUI>().text = ingredient;
         go.transform.SetParent(_missingIngredientsPanel.transform);
         go.GetComponentInChildren<RectTransform>().position = Vector3.zero;
+        go.GetComponentInChildren<Button>().onClick.AddListener(() =>
+        {
+            DestroyImmediate(go);
+
+            AddIngredientToPantryPanel(ingredient);
+        });
     }
 
     private void AddRecipeToAvailableRecipesPanel(KeyValuePair<string, List<string>> recipe)
@@ -180,13 +186,14 @@ public class version2 : MonoBehaviour
         go.GetComponentInChildren<RectTransform>().position = Vector3.zero;
     }
 
-
-
     public void OnAddToPantryButtonClick()
     {
-        var ingredient = _searchBox.text;
+        AddIngredientToPantryPanel(_searchBox.text);
+    }
 
-        if(_curIngredients.Contains(ingredient))
+    private void AddIngredientToPantryPanel(string ingredient)
+    {
+        if (_curIngredients.Contains(ingredient))
         {
             return;
         }
