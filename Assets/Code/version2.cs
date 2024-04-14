@@ -9,11 +9,16 @@ using System;
 
 public class version2 : MonoBehaviour
 {
+    // To add a new Cookbook you need to add a new entry in the enum Books below and
+    // go to unity inside canvas -> BookDropDown and add a new entry in options in the
+    // inspector with the same name that is added in the enum below.
+
     enum Books
     {
         All = 0,
         EWB = 1,
-        CBC = 2
+        CBC = 2,
+        HPBC = 3,
     }
 
     List<string> _allIngredients = new List<string>();
@@ -31,9 +36,13 @@ public class version2 : MonoBehaviour
     [SerializeField]
     Button _ingredientButton;
     [SerializeField]
+    GameObject _ingredientSuggestionBtnPrefab;
+    [SerializeField]
     GameObject _ingredientBtnPrefab;
 
     #region Panels
+    [SerializeField]
+    GameObject _ingredientSuggestionPanel;
     [SerializeField]
     GameObject _pantryPanel;
     [SerializeField]
@@ -123,32 +132,33 @@ public class version2 : MonoBehaviour
         print("receipes: " + _recipes.Count);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void OnSearchBoxInputChange(string newText)
     {
         var value = _searchBox.text;
         print("value: " + value);
 
-        foreach(var ingredient in _allIngredients)
+        RemoveAllItemsFromGameObject(_ingredientSuggestionPanel);
+
+        foreach (var ingredient in _allIngredients)
         {
             print(ingredient + " -- " + value + "======" + (ingredient.Equals(value)));
-            if (ingredient.Equals(value))
+            if (value.Length >= 3 && ingredient.ToLowerInvariant().Contains(value))
             {
-                _ingredientButton.gameObject.SetActive(true);
-                _ingredientButton.GetComponentInChildren<TextMeshProUGUI>().text = value;
-                print("Ingredient exists on list!!");
-                return;
+                AddIngredientSuggesionToIngredientSuggestionPanel(ingredient);
             }
         }
+    }
 
-         _ingredientButton.gameObject.SetActive(false);
-        print("Ingredient does NOT exist!!");
-
+    private void AddIngredientSuggesionToIngredientSuggestionPanel(string ingredient)
+    {
+        var go = Instantiate(_ingredientSuggestionBtnPrefab, Vector3.zero, Quaternion.identity);
+        go.GetComponentInChildren<TextMeshProUGUI>().text = ingredient;
+        go.transform.SetParent(_ingredientSuggestionPanel.transform);
+        go.GetComponentInChildren<RectTransform>().position = Vector3.zero;
+        go.GetComponentInChildren<Button>().onClick.AddListener(() =>
+        {
+            AddIngredientToPantryPanel(ingredient);
+        });
     }
 
     private void AddIngredientToMissingIngredientsPanel(string ingredient)
@@ -234,6 +244,11 @@ public class version2 : MonoBehaviour
         foreach (var recipe in recipes)
         {
             AddRecipeToAvailableRecipesPanel(recipe);
+        }
+
+        if(recipes.Count < 1)
+        {
+            RemoveAllItemsFromGameObject(_missingIngredientsPanel);
         }
     }
 
