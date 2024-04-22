@@ -11,6 +11,7 @@ dairy_eggSubstitute
 dairy_eggWhites
 dairy_eggWhiteSubstitutue
 dairy_feta
+dairy_goatCheese
 dairy_heavyCream
 dairy_mexicanCheese
 dairy_mozzarella
@@ -113,7 +114,6 @@ grocery_creamOfTartar
 grocery_cumin
 grocery_curryPaste
 grocery_curryPowder
-grocery_dijonMustard
 grocery_dill
 grocery_dillPickleRelish
 grocery_dillPickles
@@ -162,9 +162,14 @@ grocery_mayonnaise
 grocery_mincedGarlic
 grocery_mincedOnions
 grocery_mintExtract
+grocery_dijonMustard
+grocery_spicyMustard
+grocery_yellowMustard
+grocery_wholeGrainMustard
 grocery_nutmeg
 grocery_nutritionalYeast
 grocery_oats
+grocery_oldBay
 grocery_olives
 grocery_oliveOil
 grocery_oliveOilMayonnaise
@@ -207,7 +212,6 @@ grocery_sesameSeeds
 grocery_shreddedCoconut
 grocery_soyNuts
 grocery_soySauce
-grocery_spicyMustard
 grocery_splitPeas
 grocery_sriracha
 grocery_steakSeasoning
@@ -232,7 +236,6 @@ grocery_water
 grocery_whiteVinegar
 grocery_whiteWine
 grocery_wholeCloves
-grocery_wholeGrainMustard
 grocery_wholeWheatTortilla
 grocery_worcestershireSauce
 produce_apples
@@ -281,6 +284,7 @@ produce_onions
 produce_oranges
 produce_papaya
 produce_parsley
+produce_parsnip
 produce_peaches
 produce_pineapple
 produce_plums
@@ -305,6 +309,7 @@ produce_squash
 produce_strawberries
 produce_stringBeans
 produce_sweetOnions
+produce_sweetPotatoes
 produce_tempeh
 produce_tofuFirm
 produce_tomatoes
@@ -321,10 +326,12 @@ protein_bluefish
 protein_cajunDeliTurkey
 protein_canadianBacon
 protein_catfish
+protein_groundChicken
 protein_chicken
 protein_wholeChicken
 protein_chickenSausage
 protein_chuckRoast
+protein_crabMeat
 protein_cod
 protein_deliHam
 protein_deliRoastBeef
