@@ -113,6 +113,7 @@ grocery_blackenedSeasoning
 grocery_bread
 grocery_breadcrumbs
 grocery_breadsticks
+grocery_frenchBread
 grocery_bulger
 grocery_pitas
 grocery_butterscotchChips
@@ -252,6 +253,7 @@ grocery_garlicSalt
 grocery_grahamCrackerCrust
 grocery_granola
 grocery_groundRedPepper
+grocery_harissa
 grocery_hazlenuts
 grocery_appleJuice
 grocery_cranberryJuice
@@ -302,6 +304,7 @@ grocery_lavender
 grocery_lemonPepper
 grocery_lentils
 grocery_liquidSmoke
+grocery_macadamiaNuts
 grocery_macaroni
 grocery_mace
 grocery_canMandarinOranges
@@ -314,7 +317,9 @@ grocery_mincedGarlic
 grocery_mincedOnions
 grocery_mirin
 grocery_miso
+grocery_nori
 grocery_pita
+grocery_pieCrust
 grocery_polentaMeal
 grocery_raisins
 grocery_redMiso
@@ -335,6 +340,7 @@ grocery_linguineNoodles
 grocery_fettucineNoodles
 grocery_blackBeanNoodles
 grocery_seashellNoodles
+grocery_sobaNoodles
 grocery_yolkFreeNoodles
 grocery_cheeseRavioli
 grocery_cheeseTortellini
@@ -407,16 +413,19 @@ grocery_redChiliPaste
 grocery_redCurryPaste
 grocery_redEnchiladaSauce
 grocery_redPepperFlakes
+grocery_redWineVinegar
+grocery_wine
 grocery_marsalaWine
 grocery_redWine
 grocery_whiteWine
-grocery_redWineVinegar
+grocery_rieslingWine
 grocery_madeiraWine
 grocery_rice
+grocery_arborioRice
+grocery_basmatiRice
 grocery_instantRice
 grocery_riceSticks
 grocery_wildRice
-grocery_basmatiRice
 grocery_rum
 grocery_jasmineRice
 grocery_vanillaBean
@@ -452,6 +461,7 @@ grocery_caramelSyrup
 grocery_tacoSeasoning
 grocery_tahini
 grocery_tarragon
+grocery_tapioca
 grocery_teriyakiSauce
 grocery_thousandIsland
 grocery_thyme
