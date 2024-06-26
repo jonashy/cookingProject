@@ -626,6 +626,7 @@ protein_chicken
 protein_chickenDrumSticks
 protein_chickenThighs
 protein_wholeChicken
+protein_chickenLivers
 protein_chickenSausage
 protein_chorizoSausage
 protein_chuckRoast
