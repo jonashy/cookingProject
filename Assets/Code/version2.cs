@@ -21,6 +21,15 @@ public class version2 : MonoBehaviour
         HPBC = 3,
     }
 
+    class AskIngredient
+    {
+        public string Name;
+        public int Occurrences;
+    }
+
+    List<AskIngredient> _askIngredients = new List<AskIngredient>();
+
+
     List<string> _allIngredients = new List<string>();
     Dictionary<string, List<string>> _ingredients = new Dictionary<string, List<string>>();
     Dictionary<string, List<string>> _recipes = new Dictionary<string, List<string>>();
@@ -28,6 +37,8 @@ public class version2 : MonoBehaviour
     List<string> _curIngredients = new List<string>();
     KeyValuePair<string, List<string>> _curRecipe;
     string _curBook;
+    List<KeyValuePair<string, List<string>>> _curRecipes = new List<KeyValuePair<string, List<string>>>();
+
 
     [SerializeField]
     TMP_Dropdown _bookDropdown;
@@ -40,16 +51,23 @@ public class version2 : MonoBehaviour
     [SerializeField]
     GameObject _ingredientBtnPrefab;
 
+    [SerializeField]
+    TMP_Text _askIngredientBtn;
+
     #region Panels
     [SerializeField]
     GameObject _ingredientSuggestionPanel;
     [SerializeField]
     GameObject _pantryPanel;
     [SerializeField]
+    GameObject _missingIngredientsByRecipePanel;
+    [SerializeField]
     GameObject _availableRecipesPanel;
     [SerializeField]
     GameObject _missingIngredientsPanel;
     #endregion
+
+    private int _curIndex;
 
 
     // Start is called before the first frame update
@@ -228,7 +246,7 @@ public class version2 : MonoBehaviour
     private void UpdateListOfRecipes()
     {
         // Find recipes that match all the ingredients in the pantry
-        var recipes = _recipes.Where(v => {
+        _curRecipes = _recipes.Where(v => {
             if (String.IsNullOrEmpty(_curBook) || _curBook == "All")
             {
                 return _curIngredients.Count > 0 &&
@@ -239,16 +257,20 @@ public class version2 : MonoBehaviour
                v.Value.Intersect(_curIngredients).Count() == _curIngredients.Count;
             }
         ).ToList();
-        print("Found: " + recipes.Count + " recipes!");
+        print("Found: " + _curRecipes.Count + " recipes!");
         RemoveAllItemsFromGameObject(_availableRecipesPanel);
-        foreach (var recipe in recipes)
+        foreach (var recipe in _curRecipes)
         {
             AddRecipeToAvailableRecipesPanel(recipe);
         }
 
-        if(recipes.Count < 1)
+        if(_curRecipes.Count < 1)
         {
             RemoveAllItemsFromGameObject(_missingIngredientsPanel);
+        }
+        else
+        {
+            CalculateListOfIngredientsToAsk();
         }
     }
 
@@ -270,4 +292,79 @@ public class version2 : MonoBehaviour
         RemoveAllItemsFromGameObject(_missingIngredientsPanel);
     }
 
+    public void OnClearPantryButtonClick()
+    {
+        _curIngredients.Clear();
+        _curIndex = 0;
+        _curRecipes.Clear();
+        RemoveAllItemsFromGameObject(_ingredientSuggestionPanel);
+        RemoveAllItemsFromGameObject(_pantryPanel);
+        RemoveAllItemsFromGameObject(_missingIngredientsByRecipePanel);
+        RemoveAllItemsFromGameObject(_availableRecipesPanel);
+        RemoveAllItemsFromGameObject(_missingIngredientsPanel);
+        _askIngredientBtn.SetText("");
+        OnSearchBoxInputChange("");
+    }
+
+    public void OnClearMissingIngredientsButtonClick()
+    {
+        RemoveAllItemsFromGameObject(_missingIngredientsPanel);
+    }
+
+    public void OnIngredientButtonClick()
+    {
+        AddIngredientToPantryPanel(_askIngredientBtn.text);
+        OnSkipIngredientButtonClick();
+    }
+
+    public void OnSkipIngredientButtonClick()
+    {
+        _curIndex++;
+        if (_curIndex >= _askIngredients.Count)
+            _curIndex = 0;
+
+        UpdateIngredientQuestion();
+    }
+
+    private void CalculateListOfIngredientsToAsk()
+    {
+        _askIngredients = new List<AskIngredient>();
+        foreach(var recipe in _curRecipes)
+        {
+            print("Recipe: " + recipe.Value);
+            foreach (var ingredient in recipe.Value)
+            {
+                var ingredientName = ingredient;
+            print("Ingred: " + ingredientName);
+
+                if (_curIngredients.Contains(ingredientName))
+                    continue;
+
+                var aiInd = _askIngredients.FindIndex(i => i.Name == recipe.Value[0]);
+                if (aiInd >= 0)
+                {
+                    _askIngredients[aiInd].Occurrences++;
+                }
+                else
+                {
+                    _askIngredients.Add(new AskIngredient { Name = ingredientName, Occurrences = 1 });
+                }
+            }
+        }
+
+        //ingredients.OrderBy(ing => ing.Value);
+        _askIngredients.OrderBy(ing => ing.Occurrences);
+
+        UpdateIngredientQuestion();
+    }
+
+    private void UpdateIngredientQuestion()
+    {
+        _askIngredientBtn.SetText("");
+
+        if (_curIndex < _askIngredients.Count)
+        {
+            _askIngredientBtn.SetText(_askIngredients[_curIndex].Name);
+        }
+    }
 }
