@@ -1685,9 +1685,9 @@ cajunStyleBiscuits BHAG140_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt
 dropBiscuits BHAG140_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,milk,
 easyBiscuitMix BHAG140_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,milk
 easyBiscuits BHAG141_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,milk
-easyMuffins BHAG141_
-easyPancakes BHAG141_
-easyBeerCheeseTriangles BHAG141_
+easyMuffins BHAG141_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,milk,eggs,cookingSpray
+easyPancakes BHAG141_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,milk,eggs,cookingSpray
+easyBeerCheeseTriangles BHAG141_allPurposeFlour,bakingPowder,sugar,creamOfTartar,salt,butter,cheddarCheese,beer,
 pecanBiscuitTriangles BHAG142_
 appleCheeseBiscuits BHAG142_
 irishSodaBread BHAG143_
