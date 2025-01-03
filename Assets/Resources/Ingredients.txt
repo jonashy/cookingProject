@@ -361,6 +361,7 @@ grocery_oatBranFlour
 grocery_ryeFlour
 grocery_soyFlour
 grocery_wholeWheatFlour
+grocery_foodColoring
 grocery_franks
 grocery_garamMasala
 grocery_garlicChiliSauce
@@ -527,6 +528,7 @@ grocery_oreos
 grocery_pepper
 grocery_peppercorns
 grocery_blackPeppercorns
+grocery_peppermintCandy
 grocery_pestoSauce
 grocery_picanteSauce
 grocery_picoDeGallo
