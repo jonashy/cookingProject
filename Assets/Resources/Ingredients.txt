@@ -197,6 +197,7 @@ grocery_canClams
 grocery_canCondensedMilk
 grocery_canSweetCondensedMilk
 grocery_canCorn
+grocery_canCurrants
 grocery_canCrushedTomatoes
 grocery_canDicedTomatoes
 grocery_candiedCherries
@@ -506,6 +507,7 @@ grocery_oliveOilMayonnaise
 grocery_onionFlakes
 grocery_onionPowder
 grocery_onionSalt
+grocery_orangeJuice
 grocery_oregano
 grocery_oysterSauce
 grocery_paprika
