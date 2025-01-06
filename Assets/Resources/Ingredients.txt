@@ -11,6 +11,7 @@ dairy_brieCheese
 dairy_cottageCheese
 dairy_creamCheese
 dairy_cream
+dairy_whippingCream
 dairy_lightCream
 dairy_gruyereCheese
 dairy_havartiCheese
@@ -86,6 +87,7 @@ grocery_cremeDeCacao
 grocery_cremeDeMenthe
 grocery_chocolateCreamLiqueur
 grocery_chocolateMintLiqueur
+grocery_coffeeLiquor
 grocery_hazelnutLiguor
 grocery_hickoryWood
 grocery_kahlua
@@ -96,6 +98,7 @@ grocery_rum
 grocery_peachSchnapps
 grocery_tequila
 grocery_vodka
+grocery_whiskey
 grocery_wine
 grocery_marsalaWine
 grocery_redWine
@@ -233,6 +236,7 @@ grocery_candy
 grocery_almondToffeeBits
 grocery_fruitBits
 grocery_caramelCandy
+grocery_vanillaCaramels
 grocery_peanutButterCups
 grocery_marshmellows
 grocery_cayennePepper
@@ -271,6 +275,7 @@ grocery_driedApricots
 grocery_dryMilk
 grocery_chocolate
 grocery_bittersweetChocolate
+grocery_chocolatePowderedSugar
 grocery_chocolateCoatedCoffeeBeans
 grocery_chocolateSyrup
 grocery_hotChocolateMix
@@ -278,6 +283,7 @@ grocery_unsweetenedChocolate
 grocery_chocolateProteinPowder
 grocery_cocoaPowder
 grocery_unsweetenedCocoaPowder
+grocery_semisweetChocolate
 grocery_chocolateChips
 grocery_darkChocolateChips
 grocery_whiteChocolate
@@ -745,6 +751,7 @@ produce_pearlOnions
 produce_redOnions
 produce_vidaliaOnions
 produce_oranges
+produce_mandarinOranges
 produce_papaya
 produce_parsley
 produce_parsnip
