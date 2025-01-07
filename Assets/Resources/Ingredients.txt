@@ -11,6 +11,7 @@ dairy_brieCheese
 dairy_cottageCheese
 dairy_creamCheese
 dairy_cream
+dairy_whippingCream
 dairy_lightCream
 dairy_gruyereCheese
 dairy_havartiCheese
@@ -86,6 +87,7 @@ grocery_cremeDeCacao
 grocery_cremeDeMenthe
 grocery_chocolateCreamLiqueur
 grocery_chocolateMintLiqueur
+grocery_coffeeLiquor
 grocery_hazelnutLiguor
 grocery_hickoryWood
 grocery_kahlua
@@ -96,6 +98,7 @@ grocery_rum
 grocery_peachSchnapps
 grocery_tequila
 grocery_vodka
+grocery_whiskey
 grocery_wine
 grocery_marsalaWine
 grocery_redWine
@@ -197,6 +200,7 @@ grocery_canClams
 grocery_canCondensedMilk
 grocery_canSweetCondensedMilk
 grocery_canCorn
+grocery_canCurrants
 grocery_canCrushedTomatoes
 grocery_canDicedTomatoes
 grocery_candiedCherries
@@ -232,6 +236,7 @@ grocery_candy
 grocery_almondToffeeBits
 grocery_fruitBits
 grocery_caramelCandy
+grocery_vanillaCaramels
 grocery_peanutButterCups
 grocery_marshmellows
 grocery_cayennePepper
@@ -270,6 +275,7 @@ grocery_driedApricots
 grocery_dryMilk
 grocery_chocolate
 grocery_bittersweetChocolate
+grocery_chocolatePowderedSugar
 grocery_chocolateCoatedCoffeeBeans
 grocery_chocolateSyrup
 grocery_hotChocolateMix
@@ -277,6 +283,7 @@ grocery_unsweetenedChocolate
 grocery_chocolateProteinPowder
 grocery_cocoaPowder
 grocery_unsweetenedCocoaPowder
+grocery_semisweetChocolate
 grocery_chocolateChips
 grocery_darkChocolateChips
 grocery_whiteChocolate
@@ -361,6 +368,7 @@ grocery_oatBranFlour
 grocery_ryeFlour
 grocery_soyFlour
 grocery_wholeWheatFlour
+grocery_foodColoring
 grocery_franks
 grocery_garamMasala
 grocery_garlicChiliSauce
@@ -505,6 +513,7 @@ grocery_oliveOilMayonnaise
 grocery_onionFlakes
 grocery_onionPowder
 grocery_onionSalt
+grocery_orangeJuice
 grocery_oregano
 grocery_oysterSauce
 grocery_paprika
@@ -527,6 +536,7 @@ grocery_oreos
 grocery_pepper
 grocery_peppercorns
 grocery_blackPeppercorns
+grocery_peppermintCandy
 grocery_pestoSauce
 grocery_picanteSauce
 grocery_picoDeGallo
@@ -741,6 +751,7 @@ produce_pearlOnions
 produce_redOnions
 produce_vidaliaOnions
 produce_oranges
+produce_mandarinOranges
 produce_papaya
 produce_parsley
 produce_parsnip
